@@ -47,7 +47,7 @@ python main.py
 
 ## ✍️ Author
 
-Created by Ángel Gama as a Python practice project.
+Created by Angel Gama as part of the [Python Developer course](https://hyperskill.org/courses/2) on [Hyperskill](https://hyperskill.org/), a project-based learning platform powered by JetBrains. It was completed as a practice exercise for learning Python programming fundamentals.
 
 ## 📄 License
 
